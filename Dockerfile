@@ -1,4 +1,4 @@
-FROM node:current-alpine
+FROM 511263661634.dkr.ecr.us-west-2.amazonaws.com/node:current-alpine
 
 ENV REVIEWDOG_VERSION=v0.13.0
 
